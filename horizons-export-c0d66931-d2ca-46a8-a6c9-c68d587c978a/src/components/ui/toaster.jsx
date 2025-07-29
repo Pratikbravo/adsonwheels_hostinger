@@ -5,8 +5,8 @@ import {
 	ToastProvider,
 	ToastTitle,
 	ToastViewport,
-} from '@/components/ui/toast';
-import { useToast } from '@/components/ui/use-toast';
+} from '@horizons-export-c0d66931-d2ca-46a8-a6c9-c68d587c978a/src/components/ui/toast.jsx';
+import { useToast } from '@horizons-export-c0d66931-d2ca-46a8-a6c9-c68d587c978a/src/components/ui/use-toast.jsx';
 import React from 'react';
 
 export function Toaster() {
